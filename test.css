@@ -14,8 +14,8 @@
   }
 
 body {
-  background-image: url('video/1.jpg');
-  background-repeat: no-repeat;
+  background-image: url('media/1.jpg');
+  background-repeat: repeat;
   background-size: cover;
 }
 body {
@@ -28,24 +28,14 @@ main {
   flex: 1;
 }
 
-.main {
-  animation: fadein 2s;
-  padding: 20px;
-}
-
-
-
 
 article {
   font-size: 1.2rem;
   margin-bottom: 20px;
 }
 
-.button {
-  margin-top: 20px;
-  animation: slidein 2s;
-}
 
+/* transition */
 h1 {
   color: hsl(0, 0%, 28%);
     font-family: monospace;
@@ -67,7 +57,7 @@ h1:hover span {
   color: #fff;
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
 }
-
+/* shining */
 article {
   color: hsl(0, 0%, 28%);
   font-weight: bold;
@@ -82,7 +72,7 @@ article {
   background: linear-gradient(to right, hsl(0, 0%, 30%) 0, hsl(0, 0%, 100%) 10%, hsl(0, 0%, 30%) 20%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: shine 5s infinite linear;
+  animation: shine 5s infinite linear; 
 }
 
 @keyframes shine {
@@ -94,5 +84,22 @@ article {
   }
   100% {
     background-position: 600px;
+  }
+}
+
+a {
+  transform-origin: center bottom;
+  animation: swing 2s infinite;
+}
+
+@keyframes swing {
+  0% {
+    transform: rotate(-10deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  100% {
+    transform: rotate(-10deg);
   }
 }
