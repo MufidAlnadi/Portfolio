@@ -1,4 +1,5 @@
 # Portfolio
+#### I'm constantly learning and growing, and my portfolio reflects that. Whether you're a fellow developer looking for inspiration or a potential employer seeking a talented team member, I hope my portfolio provides you with insights into my abilities and demonstrates my commitment to excellence. Thanks for stopping by!
 
 ## tools
 - VScode
