@@ -4,3 +4,5 @@
 - VScode
 - HTML&CSS
 - Bootstrap
+- Figma
+- MDN
