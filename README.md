@@ -8,9 +8,9 @@
 - MDN
 
 ## Mockup and Wireframe
-![Mockup](https://www.figma.com/file/CW0qyudjSbajURk0HwaMtI/protfolio?node-id=0%3A1&t=vqEUi7rQ664NLSLh-1)
+[Mockup](https://www.figma.com/file/CW0qyudjSbajURk0HwaMtI/protfolio?node-id=0%3A1&t=vqEUi7rQ664NLSLh-1)
 
-![Wireframe](https://www.figma.com/file/eMRJbrUJK6yOp2t7Dowzbk/protfolio?t=vqEUi7rQ664NLSLh-1)
+[Wireframe](https://www.figma.com/file/eMRJbrUJK6yOp2t7Dowzbk/protfolio?t=vqEUi7rQ664NLSLh-1)
 
 ## Screenshot
 ![index](https://user-images.githubusercontent.com/126170946/224400669-6952c33f-322c-45dc-99ba-c5a5a82dec2a.JPG)
