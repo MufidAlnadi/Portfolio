@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;500&display=swap');
+
 .hero-container {
     position: absolute;
     top: 50%;
@@ -86,7 +88,7 @@ article {
     background-position: 600px;
   }
 }
-
+/* icons */
 a {
   transform-origin: center bottom;
   animation: swing 2s infinite;
