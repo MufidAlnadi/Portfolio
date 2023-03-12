@@ -41,21 +41,21 @@ body{
 
 /* transition */
 h1 {
-  color: hsl(0, 0%, 28%);
+  color: hsl(0, 0%, 30%);
     font-family: monospace;
-  letter-spacing: 7px;
+  letter-spacing: 10px;
   cursor: auto;
 }
 
 h1 span {
-  transition: 0.2s ease-out;
+  transition: 0.5s ease-out;
 }
 h1:hover span:nth-child(1) {
   margin-right: 5px;
 }
 
 h1:hover span:nth-child(2) {
-  margin-left: 30px;
+  margin-left: 40px;
 }
 h1:hover span {
   color: #fff;
@@ -66,7 +66,7 @@ article {
   color: hsl(0, 0%, 28%);
   font-weight: bold;
   font-family: monospace;
-  letter-spacing: 7px;
+  letter-spacing: 3px;
   cursor: auto;
   text-transform: uppercase;
 }
@@ -76,7 +76,7 @@ article {
   background: linear-gradient(to right, hsl(0, 0%, 30%) 0, hsl(0, 0%, 100%) 10%, hsl(0, 0%, 30%) 20%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: shine 5s infinite linear; 
+  animation: shine 20s infinite linear; 
 }
 
 @keyframes shine {
@@ -87,7 +87,7 @@ article {
     background-position: 600px;
   }
   100% {
-    background-position: 600px;
+    background-position: 800px;
   }
 }
 /* icons */
