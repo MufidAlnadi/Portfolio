@@ -35,7 +35,9 @@ article {
   font-size: 1.2rem;
   margin-bottom: 20px;
 }
-
+body{
+  overflow-x: hidden;
+}
 
 /* transition */
 h1 {
@@ -96,13 +98,13 @@ article {
 
 @keyframes swing {
   0% {
-    transform: rotate(-10deg);
+    transform: rotate(-6deg);
   }
   50% {
-    transform: rotate(10deg);
+    transform: rotate(6deg);
   }
   100% {
-    transform: rotate(-10deg);
+    transform: rotate(-6deg);
   }
 }
 /* menu */
