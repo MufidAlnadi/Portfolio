@@ -72,13 +72,13 @@ h1:hover span {
   
   @keyframes swing {
     0% {
-      transform: rotate(-10deg);
+      transform: rotate(-6deg);
     }
     50% {
-      transform: rotate(10deg);
+      transform: rotate(6deg);
     }
     100% {
-      transform: rotate(-10deg);
+      transform: rotate(-6deg);
     }
   }
   
