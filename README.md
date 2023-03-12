@@ -14,8 +14,8 @@
 [Wireframe](https://www.figma.com/file/eMRJbrUJK6yOp2t7Dowzbk/protfolio?t=vqEUi7rQ664NLSLh-1)
 
 ## Screenshot
-![index](https://user-images.githubusercontent.com/126170946/224400669-6952c33f-322c-45dc-99ba-c5a5a82dec2a.JPG)
+![index](https://user-images.githubusercontent.com/126170946/224560680-e7ed338d-61e3-45b6-972b-15d7b1cba87a.JPG)
 
-![project](https://user-images.githubusercontent.com/126170946/224400698-08d4073e-4859-4b85-8573-0a7a1fa39f39.JPG)
+![project](https://user-images.githubusercontent.com/126170946/224560701-4840fd82-e243-4d01-ab80-e669b24fd1c8.JPG)
 
-![about](https://user-images.githubusercontent.com/126170946/224400741-308480c5-9099-40fe-9854-2182347960e5.JPG)
+![about](https://user-images.githubusercontent.com/126170946/224560721-e4f6a377-f7e4-43b6-acb8-4ed34f3fdf41.JPG)
