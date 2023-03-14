@@ -5,6 +5,7 @@ body {
   background-image: url('media/bg3\ -\ Copy.jpg');
   background-repeat: repeat;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 article {
